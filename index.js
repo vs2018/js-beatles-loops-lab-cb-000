@@ -8,6 +8,6 @@ function theBeatlesPlay(arrI, arrM) {
   return empty
 }
 
-function johnLennonFacts() {
+function johnLennonFacts(facts) {
   
 }
