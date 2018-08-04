@@ -10,6 +10,7 @@ function theBeatlesPlay(arrI, arrM) {
 
 function johnLennonFacts(facts) {
   var i = 0
+  var array = []
   while (i < facts.length) {
     facts[i].concat("!!!")
     i++
